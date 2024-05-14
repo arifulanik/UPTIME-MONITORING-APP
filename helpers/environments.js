@@ -1,8 +1,8 @@
 /*
  * Title: Environments
- * Description: Handle all environment related things
- * Author: Sumit Saha ( Learn with Sumit )
- * Date: 11/20/2020
+ * Description: Handle all environment-related things
+ * Author: Ariful Islam
+ * Date: 24/04/2024
  *
  */
 
