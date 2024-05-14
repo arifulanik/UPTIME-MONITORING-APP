@@ -1,7 +1,7 @@
 /*
  * Title: Utilities
  * Description: Important utility functions
- * Author: Sumit Saha ( Learn with Sumit )
+ * Author: Ariful Islam
  * Date: 11/21/2020
  *
  */
